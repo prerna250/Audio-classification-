@@ -1,4 +1,4 @@
-# Audio-classification
+# Language-classification
 Language Classification Using CNN
 
 Language classification is the technique of classifying languages based on many factors, suchas their historical origin, ancestor languages, linguistic characteristics, or grammatical structures. Convolutional Neural Networks (CNN) is a specific deep neural network design that is frequently used for computer vision, object recognition, and picture classification tasks. A CNN uses a series of convolutional layers to apply a set of filters to the input image in order to extract different features. One or more fully connected layers subsequently carry out the classification task using the extracted features on the output of the convolutional layers. During the training process, the filters in the convolutional layers are learned.
